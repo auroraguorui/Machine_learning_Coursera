@@ -34,7 +34,6 @@ ex7 - Dimension reduction
 ex8 - Anomaly Detection & Recommender system
     - Gaussian distribution estimation
     - High dimension dataset anomaly detection
-    
     - Content based collaborative filtering
     - Learning movie recommendations
 
