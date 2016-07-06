@@ -1,6 +1,7 @@
 Programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
 
 Table of contents:
+
 ex1 - Linear Regression (one variable and multiple variables)
     - Gradient descent
     - Normal equation
